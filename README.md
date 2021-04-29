@@ -1,3 +1,3 @@
-# My First Website!
+# Introduction into Node.js!
 
-Welcome!
+Following the course - https://www.youtube.com/watch?v=CWjNefiE47Y
